@@ -6,5 +6,5 @@ Selective Traffic Protection on iOS, iPadOS, macOS, and tvOS Using Shadowrocket 
 
 3. CORE: 
 domain_custom.list — my own preferences;
-domain_antifilter.list — [Antifilter](https://community.antifilter.download) domains;
-geoip_antifilter.list - [Antifilter](https://community.antifilter.download) iP's.
+domain_antifilter.list — Antifilter domains;
+geoip_antifilter.list - Antifilter iP's.
