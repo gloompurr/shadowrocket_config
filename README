@@ -6,7 +6,9 @@ This project involves creating a custom SR configuration file tailored to specif
 
 ______________________________________________________________________________________________________________________
 
-Interlude: 
+Intro: 
 ______________________________________________________________________________________________________________________
 
 Selective Traffic Protection on iOS, iPadOS, macOS, and tvOS Using Shadowrocket for Users in Russia. This solution provides selective traffic routing through Shadowrocket, tailored for users in Russia. All traffic will be routed directly through your internet service provider, while requests to specific domains listed in the configuration file will be redirected through your server. For example, you will be able to access YouTube or Instagram without the need to manually activate a VPN application each time. This approach ensures seamless access to targeted services while maintaining efficient traffic management for everyday usage.
+
+#Remember_NO_RUSSIAN
